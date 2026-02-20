@@ -15,8 +15,10 @@ An interactive student performance dashboard built using modern HTML, CSS and Ja
 - CSS3 (Modern UI Design)
 - JavaScript (OOP + DOM Manipulation)
 
-## 🌐 Live Demo
-https://portfolio-srijan.lovable.app/
+## 🚀 How to Run
+
+1. Download the repository
+2. Open index.html in your browser
 
 ---
 
