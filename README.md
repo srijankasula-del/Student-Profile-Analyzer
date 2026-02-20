@@ -16,7 +16,7 @@ An interactive student performance dashboard built using modern HTML, CSS and Ja
 - JavaScript (OOP + DOM Manipulation)
 
 ## 🌐 Live Demo
-https://srijankasula-del.github.io/Student-Profile-Analyzer/
+https://portfolio-srijan.lovable.app/
 
 ---
 
