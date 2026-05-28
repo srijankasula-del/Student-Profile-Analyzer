@@ -20,6 +20,9 @@ An interactive student performance dashboard built using modern HTML, CSS and Ja
 1. Download the repository
 2. Open index.html in your browser
 
+          OR
+https://srijankasula-del.github.io/Student-Profile-Analyzer/
+
 ---
 
 Built by Srijan Kasula 🚀
